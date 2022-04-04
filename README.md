@@ -176,14 +176,17 @@ a.p:hover span {
 <a href="https://torokoid.github.io/yuna/20220303_002.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/yuna/20220303_002.JPG" alt="サンプル画像" width="900" /></a>
 	
 </div>
-	<br>
+	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	
+	
+	
 <!-- フッタ -->
  <footer>
  撮影日、場所：2022/04/03、岡本第１公園
  </footer>	
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 
 
 
