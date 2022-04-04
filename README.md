@@ -116,7 +116,7 @@ a.p:hover span {
 	
 <p align="left"> <img src="qrsakura.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2022年4月3日、公演の桜が満開 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2022年4月3日、公園の桜が満開 !!!</marquee></span></h1>
 
 <!--	
 <br><p>泳法の進化研究会が取りまとめた図書から、四角囲みの部分だけを取り出しました。<br>ほとんどの部分は水泳の先生たちが読むような難しい記述ですので割愛しました。</p>
@@ -182,9 +182,9 @@ a.p:hover span {
 	
 <!-- フッタ -->
  <footer>
-	 <h2><span class="yellow">
+	 <h2><span class="snow">
  撮影日、場所：2022/04/03、岡本第１公園
-		 </h2></span>
+		 </span></h2>
 	</footer>	
 
 
