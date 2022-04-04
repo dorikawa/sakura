@@ -71,7 +71,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://dorikawa.github.io/sakura/20220403_0000.JPG) center/cover no-repeat; 
+  background:url(https://dorikawa.github.io/sakura/20220403_00.JPG) center/cover no-repeat; 
   -webkit-background-size:cover;/*Android4*/
   }
   
