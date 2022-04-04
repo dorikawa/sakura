@@ -182,8 +182,10 @@ a.p:hover span {
 	
 <!-- フッタ -->
  <footer>
+	 <h2><span class="yellow">
  撮影日、場所：2022/04/03、岡本第１公園
- </footer>	
+		 </h2></span>
+	</footer>	
 
 
 
