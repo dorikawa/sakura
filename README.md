@@ -174,7 +174,7 @@ a.p:hover span {
 <a href="https://torokoid.github.io/yuna/20220321_001.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/yuna/20220321_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/yuna/20220303_002.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/yuna/20220303_002.JPG" alt="サンプル画像" width="900" /></a>
 	
-</div>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br>
 	
@@ -182,7 +182,7 @@ a.p:hover span {
 <!-- フッタ -->
  <footer>
 	 <h2><span class="snow">
- 撮影日、場所：2022/04/03、岡本、台ハイツ西公園
+ 撮影日、場所：2022/04/03(日)、岡本、台ハイツ西公園
 		 </span></h2>
 	</footer>	
 
