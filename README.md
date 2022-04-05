@@ -120,10 +120,9 @@ a.p:hover span {
 
 <!--	
 <br><p>泳法の進化研究会が取りまとめた図書から、四角囲みの部分だけを取り出しました。<br>ほとんどの部分は水泳の先生たちが読むような難しい記述ですので割愛しました。</p>
--->
 
 <div style="background-color:rgba(0,255,0,0.5)"> 
-
+-->
 
 <a href="20220403_001.JPG" data-lightbox="abc"><img src="20220403_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20220403_002.JPG" data-lightbox="abc"><img src="20220403_002.JPG" alt="サンプル画像" width="900" /></a>
