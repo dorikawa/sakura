@@ -174,6 +174,9 @@ a.p:hover span {
 <a href="https://torokoid.github.io/yuna/20220321_001.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/yuna/20220321_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="https://torokoid.github.io/yuna/20220303_002.JPG" data-lightbox="abc"><img src="https://torokoid.github.io/yuna/20220303_002.JPG" alt="サンプル画像" width="900" /></a>
 	
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2022年4月12日、アキくんとの２ショット追記 !!!</marquee></span></h1>
+<a href="20220412_001.JPG" data-lightbox="abc"><img src="20220412_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20220412_002.JPG" data-lightbox="abc"><img src="20220412_002.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br>
